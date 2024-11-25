@@ -1,0 +1,101 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,TotalCharges,Churn
+1492-RRR1,Female,1,No,No,34,Yes,Yes,DSL,Yes,No,Yes,No,Yes,Yes,Month-to-month,No,Electronic check,67.35,4954.71,No
+8016-PPP2,Female,1,Yes,Yes,40,Yes,Yes,DSL,Yes,No,Yes,Yes,Yes,No,Month-to-month,Yes,Credit card (auto),23.84,4317.73,No
+8129-III3,Female,1,Yes,No,46,Yes,No,DSL,No,No,Yes,Yes,Yes,No,Two year,Yes,Bank transfer (auto),94.68,4360.01,No
+6989-QQQ4,Male,1,No,Yes,68,Yes,No,No,No,No,No,No,Yes,No,One year,No,Electronic check,78.11,2167.14,No
+8104-PPP5,Female,0,No,No,36,Yes,Yes,No,Yes,No,Yes,Yes,No,No,One year,No,Credit card (auto),116.77,2043.52,Yes
+1337-YYY3,Female,0,No,No,66,Yes,Yes,Fiber optic,Yes,Yes,No,Yes,Yes,Yes,Two year,Yes,Credit card (auto),74.27,3049.05,No
+1337-YYY4,Male,1,Yes,No,37,No,No,Fiber optic,Yes,No,Yes,No,No,Yes,Two year,No,Electronic check,106.69,1736.04,Yes
+1337-YYY5,Male,1,Yes,Yes,27,No,No phone service,No,Yes,No,Yes,Yes,No,Yes,Two year,No,Electronic check,52.55,1737.17,No
+1337-YYY6,Male,1,Yes,No,69,No,Yes,Fiber optic,Yes,No,No,Yes,No,Yes,Month-to-month,No,Electronic check,40.69,2433,No
+1337-YYY7,Female,0,Yes,No,12,No,Yes,No,No,Yes,Yes,No,Yes,Yes,Two year,No,Electronic check,29.4,1194.67,Yes
+1337-YYY8,Male,1,Yes,No,70,No,No phone service,Fiber optic,No,Yes,Yes,No,No,Yes,Month-to-month,No,Credit card (auto),92.59,1795.74,No
+1337-YYY9,Male,0,Yes,Yes,11,No,No,Fiber optic,Yes,Yes,No,Yes,Yes,Yes,Two year,No,Bank transfer (auto),75.14,217.52,Yes
+1337-YYY10,Male,0,No,No,44,No,No phone service,DSL,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Mailed check,71.34,4746.37,Yes
+1337-YYY11,Female,0,No,Yes,61,Yes,No,No,No,No,No,No,Yes,Yes,Two year,Yes,Credit card (auto),33.02,2732.52,Yes
+1337-YYY12,Male,1,No,No,2,Yes,Yes,DSL,No,No,No,No,Yes,Yes,One year,No,Electronic check,115.95,70.69,No
+1337-YYY13,Female,0,Yes,Yes,59,Yes,Yes,DSL,Yes,No,No,No,Yes,No,Month-to-month,No,Electronic check,24.87,386.12,No
+1337-YYY14,Male,1,Yes,No,57,Yes,No,DSL,No,No,Yes,Yes,Yes,No,One year,No,Electronic check,64.95,4999.14,No
+1337-YYY15,Female,1,No,Yes,50,Yes,No phone service,Fiber optic,No,No,No,No,No,Yes,Two year,No,Bank transfer (auto),34.55,4784.39,Yes
+1337-YYY16,Female,1,Yes,Yes,51,No,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,99.07,3472.64,No
+1337-YYY17,Female,0,No,Yes,23,No,Yes,DSL,No,No,Yes,Yes,No,Yes,Month-to-month,No,Credit card (auto),18.39,916.87,Yes
+1337-YYY18,Female,1,No,Yes,50,No,No,Fiber optic,Yes,Yes,Yes,Yes,Yes,No,Two year,Yes,Electronic check,21.59,2757.35,Yes
+1337-YYY19,Female,0,No,Yes,39,No,No,No,No,Yes,Yes,Yes,No,No,Two year,No,Credit card (auto),59.49,951.8,No
+1337-YYY20,Female,1,No,No,43,Yes,No phone service,No,No,No,Yes,Yes,Yes,No,One year,Yes,Bank transfer (auto),87.68,3882.12,No
+1337-YYY21,Male,0,Yes,No,10,Yes,No,DSL,No,No,No,Yes,No,No,Two year,No,Electronic check,41.74,2053.57,Yes
+1337-YYY22,Female,0,No,Yes,48,Yes,No,No,No,No,No,No,Yes,No,Two year,No,Bank transfer (auto),43.92,3755.49,No
+1337-YYY23,Male,0,Yes,Yes,66,Yes,Yes,Fiber optic,Yes,No,No,Yes,No,Yes,Month-to-month,No,Electronic check,84.19,117.7,No
+1337-YYY24,Female,0,No,No,65,No,Yes,DSL,Yes,Yes,Yes,No,No,No,One year,Yes,Mailed check,29.8,2032.24,No
+1337-YYY25,Female,1,No,No,47,Yes,No,DSL,Yes,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,76.14,4271.35,No
+1337-YYY26,Male,0,No,Yes,15,Yes,Yes,Fiber optic,No,Yes,No,Yes,No,No,Month-to-month,Yes,Mailed check,55.36,4515.31,No
+1337-YYY27,Male,1,Yes,No,70,Yes,Yes,Fiber optic,Yes,No,Yes,No,No,No,Month-to-month,No,Electronic check,54.54,3007.98,No
+1337-YYY28,Female,0,Yes,Yes,18,Yes,No,No,Yes,Yes,Yes,No,Yes,No,Month-to-month,No,Bank transfer (auto),30.19,3519.89,No
+1337-YYY29,Male,1,Yes,No,16,No,No,No,Yes,No,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (auto),72.82,652.43,No
+1337-YYY30,Male,1,Yes,No,5,Yes,No phone service,DSL,No,Yes,No,Yes,No,Yes,Two year,No,Electronic check,107.02,4757.56,No
+1337-YYY31,Male,1,No,No,12,Yes,Yes,DSL,Yes,No,No,Yes,Yes,Yes,One year,No,Credit card (auto),91.3,732,No
+1337-YYY32,Female,0,No,No,28,No,No phone service,DSL,No,No,Yes,Yes,No,Yes,One year,No,Credit card (auto),24.34,3150.57,No
+1337-YYY33,Male,1,No,No,46,No,Yes,DSL,No,No,No,Yes,Yes,No,Two year,Yes,Electronic check,77.92,25.8,No
+1337-YYY34,Male,1,No,No,36,Yes,No,DSL,Yes,Yes,No,No,Yes,No,Two year,No,Credit card (auto),31.42,1901.19,No
+1337-YYY35,Male,0,Yes,Yes,52,Yes,No phone service,DSL,Yes,No,No,Yes,No,Yes,Month-to-month,Yes,Credit card (auto),92.36,755.85,No
+1337-YYY36,Female,1,No,Yes,1,Yes,No phone service,Fiber optic,No,No,No,No,No,Yes,One year,Yes,Credit card (auto),64.04,4943.5,Yes
+1337-YYY37,Male,0,Yes,No,8,Yes,No phone service,Fiber optic,No,Yes,Yes,No,No,Yes,Month-to-month,Yes,Credit card (auto),93.79,810.9,Yes
+1337-YYY38,Female,0,Yes,No,17,Yes,No phone service,No,No,Yes,No,No,No,Yes,One year,No,Electronic check,51.35,3368.74,No
+1337-YYY39,Male,0,Yes,Yes,70,Yes,No phone service,DSL,Yes,Yes,No,Yes,No,Yes,One year,Yes,Credit card (auto),116.56,4751.05,Yes
+1337-YYY40,Male,1,No,No,53,Yes,No phone service,Fiber optic,Yes,No,Yes,Yes,No,Yes,Two year,Yes,Mailed check,107.08,3255.06,Yes
+1337-YYY41,Male,1,No,Yes,35,Yes,Yes,DSL,Yes,Yes,Yes,No,Yes,Yes,One year,Yes,Bank transfer (auto),46.49,1212.71,Yes
+1337-YYY42,Male,0,Yes,No,71,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (auto),50.25,2793.31,No
+1337-YYY43,Female,1,Yes,Yes,66,No,No phone service,DSL,No,No,Yes,Yes,Yes,No,Two year,No,Electronic check,29.39,737.1,No
+1337-YYY44,Male,0,No,No,63,No,Yes,DSL,No,Yes,No,No,Yes,No,Two year,Yes,Bank transfer (auto),83.86,1402.49,Yes
+1337-YYY45,Male,1,No,No,12,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,Month-to-month,Yes,Credit card (auto),45.52,2187.89,No
+1337-YYY46,Male,1,Yes,No,27,Yes,No,No,No,No,No,Yes,Yes,No,One year,No,Electronic check,59.84,1102.8,No
+1337-YYY47,Male,1,No,No,20,No,No phone service,Fiber optic,No,Yes,No,No,Yes,No,Month-to-month,No,Electronic check,102.71,4749.66,Yes
+1337-YYY48,Female,0,Yes,Yes,11,No,No phone service,No,No,No,No,No,Yes,Yes,One year,No,Mailed check,18.65,609.66,No
+1337-YYY49,Male,1,No,Yes,45,Yes,No phone service,DSL,No,No,Yes,No,Yes,Yes,One year,No,Bank transfer (auto),28.63,4973.33,No
+1337-YYY50,Male,1,Yes,Yes,39,Yes,Yes,No,Yes,No,No,No,Yes,No,Two year,No,Credit card (auto),116.81,4698.92,Yes
+1337-YYY51,Male,1,No,No,8,No,No,Fiber optic,No,No,No,No,Yes,No,Two year,Yes,Mailed check,93.94,568.45,No
+1337-YYY52,Female,1,Yes,No,36,No,Yes,DSL,No,Yes,No,No,No,Yes,Two year,Yes,Electronic check,100.23,3673.38,Yes
+1337-YYY53,Female,0,Yes,No,53,Yes,No,DSL,Yes,No,Yes,Yes,Yes,No,Month-to-month,Yes,Electronic check,78.18,3126.56,No
+1337-YYY54,Female,1,Yes,No,12,Yes,Yes,Fiber optic,No,No,Yes,Yes,Yes,Yes,Month-to-month,No,Mailed check,35.21,1955.73,No
+1337-YYY55,Female,1,No,Yes,24,Yes,Yes,DSL,No,Yes,Yes,Yes,No,No,Two year,Yes,Credit card (auto),50.42,2804.47,Yes
+1337-YYY56,Male,0,No,Yes,69,Yes,No,No,No,No,Yes,No,No,No,Two year,No,Credit card (auto),54.03,1858.42,Yes
+1337-YYY57,Male,1,Yes,Yes,18,Yes,Yes,DSL,Yes,No,No,Yes,No,Yes,One year,No,Mailed check,25.55,1816.49,Yes
+1337-YYY58,Female,0,Yes,No,1,Yes,No,DSL,No,No,No,Yes,No,No,Two year,Yes,Mailed check,73.5,4817.73,Yes
+1337-YYY59,Female,1,No,No,41,No,Yes,DSL,No,Yes,No,No,Yes,Yes,One year,Yes,Credit card (auto),30.95,1683.91,No
+1337-YYY60,Male,1,Yes,Yes,70,Yes,No,No,No,Yes,Yes,No,No,No,Month-to-month,No,Credit card (auto),109.83,2472.39,No
+1337-YYY61,Male,0,Yes,No,47,No,No,No,Yes,No,Yes,Yes,No,No,Month-to-month,No,Electronic check,60.96,296.3,No
+1337-YYY62,Male,1,Yes,No,69,Yes,No,No,Yes,Yes,Yes,No,No,Yes,One year,Yes,Bank transfer (auto),71.32,3909.09,Yes
+1337-YYY63,Female,0,Yes,No,18,Yes,No,No,No,No,Yes,Yes,No,No,Two year,No,Electronic check,37.26,1254.28,Yes
+1337-YYY64,Female,0,Yes,Yes,21,Yes,Yes,Fiber optic,Yes,No,Yes,No,Yes,No,One year,Yes,Electronic check,76.66,2443.45,No
+1337-YYY65,Female,1,Yes,Yes,4,No,No,No,No,No,Yes,Yes,No,Yes,Month-to-month,Yes,Mailed check,74.66,4714.04,Yes
+1337-YYY66,Male,0,No,No,72,Yes,No phone service,No,No,Yes,Yes,No,Yes,No,One year,No,Credit card (auto),43.23,3822.48,Yes
+1337-YYY67,Male,1,No,Yes,19,Yes,No phone service,DSL,No,No,No,Yes,Yes,No,One year,Yes,Electronic check,18.82,145.04,Yes
+1337-YYY68,Male,0,Yes,Yes,57,No,No,No,No,Yes,No,Yes,Yes,No,Month-to-month,Yes,Electronic check,81.17,4801.76,Yes
+1337-YYY69,Male,0,No,Yes,21,No,Yes,Fiber optic,Yes,No,No,Yes,No,No,One year,Yes,Bank transfer (auto),65.87,2013.29,No
+1337-YYY70,Male,0,Yes,Yes,26,No,No,Fiber optic,No,Yes,No,Yes,No,Yes,Two year,No,Credit card (auto),67.94,3960.67,No
+1337-YYY71,Female,1,Yes,No,71,No,No,Fiber optic,No,No,Yes,Yes,No,No,Two year,Yes,Mailed check,52.03,2457.91,Yes
+1337-YYY72,Male,0,No,No,10,Yes,Yes,No,No,Yes,No,Yes,No,No,Month-to-month,No,Electronic check,58.06,1307.9,Yes
+1337-YYY73,Female,0,No,Yes,16,No,No,No,No,No,Yes,Yes,No,Yes,Two year,Yes,Electronic check,32.49,4033.28,No
+1337-YYY74,Male,1,No,Yes,64,Yes,No,No,No,No,No,Yes,Yes,Yes,One year,Yes,Electronic check,113.54,2724.74,No
+1337-YYY75,Female,0,No,Yes,17,Yes,Yes,DSL,Yes,No,No,No,Yes,Yes,Month-to-month,No,Electronic check,98.76,1226.96,Yes
+1337-YYY76,Female,0,No,Yes,55,No,No phone service,DSL,No,No,No,Yes,No,Yes,Month-to-month,No,Bank transfer (auto),118.11,4845.82,No
+1337-YYY77,Male,1,Yes,No,5,No,No phone service,No,Yes,No,No,Yes,Yes,No,Two year,Yes,Mailed check,70.34,969.19,No
+1337-YYY78,Female,0,Yes,No,12,No,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,No,Month-to-month,No,Electronic check,116.66,2557.06,Yes
+1337-YYY79,Female,1,No,No,57,No,Yes,Fiber optic,No,Yes,No,Yes,Yes,No,One year,Yes,Credit card (auto),111.29,2917.53,No
+1337-YYY80,Female,0,Yes,Yes,33,Yes,No phone service,Fiber optic,Yes,No,Yes,No,No,Yes,One year,No,Credit card (auto),19.67,854.95,Yes
+1337-YYY81,Female,0,Yes,Yes,28,Yes,Yes,DSL,No,No,No,No,No,Yes,Month-to-month,No,Bank transfer (auto),32.21,3334.29,Yes
+1337-YYY82,Male,0,Yes,Yes,18,Yes,No phone service,DSL,No,No,Yes,No,No,No,Two year,Yes,Credit card (auto),110.15,1565.92,No
+1337-YYY83,Male,0,Yes,No,11,Yes,Yes,No,No,Yes,No,No,Yes,Yes,One year,No,Mailed check,47.82,2954.53,No
+1337-YYY84,Female,0,Yes,Yes,47,No,Yes,No,Yes,No,No,Yes,No,Yes,Two year,Yes,Credit card (auto),46.14,1587.11,Yes
+1337-YYY85,Male,0,No,Yes,3,No,No,No,Yes,Yes,Yes,No,Yes,Yes,Month-to-month,No,Electronic check,77.26,89.94,No
+9418-DDD3,Female,0,No,No,16,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,No,Two year,No,Mailed check,83.1,4800.46,Yes
+4809-GGG8,Female,0,Yes,Yes,71,No,No phone service,No,No,Yes,Yes,Yes,Yes,No,Two year,Yes,Electronic check,104.56,1857.56,No
+7838-PPP3,Male,0,No,No,57,Yes,No phone service,Fiber optic,Yes,Yes,Yes,No,Yes,No,One year,Yes,Electronic check,44.4,565.95,Yes
+5570-FFF4,Female,0,No,Yes,32,Yes,No phone service,No,Yes,No,Yes,Yes,No,Yes,Month-to-month,No,Electronic check,60.25,575.58,No
+5887-LLL9,Male,1,No,Yes,11,Yes,Yes,Fiber optic,Yes,No,Yes,Yes,Yes,Yes,One year,No,Bank transfer (auto),106.66,3473.98,Yes
+9722-BBB3,Male,0,No,No,36,No,Yes,No,No,Yes,No,No,Yes,Yes,Two year,Yes,Bank transfer (auto),66.72,1796.61,No
+6749-AAA2,Male,1,No,Yes,24,Yes,No phone service,Fiber optic,No,No,Yes,No,No,Yes,Month-to-month,Yes,Bank transfer (auto),104.03,2819.2,No
+9133-RRR1,Female,0,No,No,38,No,Yes,DSL,No,No,Yes,Yes,Yes,No,Two year,No,Mailed check,28.5,2736.21,Yes
+3089-PPP5,Female,0,Yes,No,17,Yes,No phone service,Fiber optic,No,No,Yes,No,No,No,Two year,Yes,Electronic check,44.4,4974.21,Yes
+7991-XXX2,Female,0,No,Yes,22,Yes,No phone service,DSL,No,No,No,No,Yes,No,One year,Yes,Credit card (auto),100.42,848.22,Yes
+3057-DDD3,Male,1,No,No,24,Yes,No phone service,DSL,No,Yes,No,No,Yes,No,Month-to-month,Yes,Bank transfer (auto),82.7,2948.59,No
+6917-LLL7,Female,0,No,No,7,No,No,No,Yes,No,Yes,Yes,No,Yes,One year,No,Electronic check,89.16,450.96,No
